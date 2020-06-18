@@ -41,5 +41,5 @@ Please report issues in the git hub repo if you discover any issues with the map
 
 ## Credits
 1. Big thanks to the Rust team for the amazing game!
-2. Big thanks to Anton for his hard work on it and his devlogs.
-3. Thanks to Nolenz (u/Koba0100) For WurstMod
+2. Big thanks to Anton for his hard work on it and his devlogs!
+3. Thanks to Nolenz (u/Koba0100) For WurstMod!
