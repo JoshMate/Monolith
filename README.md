@@ -5,6 +5,8 @@ Author: Josh Mate
 
 Version: 0.9 
 
+**THIS MAP IS CURRENTLY IN ALPHA IT IS NOT FINISHED, BUT YOU ARE WELCOME TO HELP TEST**
+
 ## Description
 Monolith focuses on more real world Take and Hold scenarios. 
 You will be defending from a single main direction rather than being flanked from all directions.
