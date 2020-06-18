@@ -26,7 +26,7 @@ Thanks to Anton's excellent code, all of the Features of T&H are reusable, so ex
 ## Installation
 1. Fully install WurstMod [Here](https://github.com/Nolenz/WurstMod)
 2. Download or clone this git repo
-3. Copy the "JM_Monolit"h folder to your "H3VR\CustomLevels" Folder
+3. Copy the "JM_Monolit" folder to your "H3VR\CustomLevels\TakeAndHold" Folder
 4. From the take and hold scene, select Monolith from the map selector
 5. Enjoy!
 
