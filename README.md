@@ -6,10 +6,12 @@ Author: Josh Mate
 Version: 0.9 
 
 ## Description
-Monolith focuses on more realistic Take and Hold scenarios. 
+Monolith focuses on more real world Take and Hold scenarios. 
 You will be defending from a single main direction rather than being flanked from all directions.
 Some Hold Arenas are much bigger than in vanilla, and feature buildings and structures to defend from.
 It covers all Engagement ranges so will test you at Pistol, Rifle and Sniper Range skills!
+
+
 
 ## The Holds
 
@@ -20,8 +22,9 @@ It covers all Engagement ranges so will test you at Pistol, Rifle and Sniper Ran
 5. Short Range - Capture and defend a bizzare statue. Very close range combat, like vanilla. Sosigs come from all directions.
 6. Short Range - Capture and defend a ventilation room. Very close range combat, like vanilla. Sosigs come from a single direction.
 
-## The Real Take and Hold Experience
+## The Take and Hold Experience
 Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation and full pre match customisation!
+As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you may find this map easier or harder depending on how you like to play.
 
 ## Installation
 1. Fully install WurstMod [Here](https://github.com/Nolenz/WurstMod)
