@@ -1,9 +1,8 @@
 Monolith
 Josh Mate
-Monolith focuses on more realistic scenarios. You will be defending from a single main direction rather than being flanked from all directions.
 
-It will test you at Pistol, Rifle and Sniper Range!
+6 unique hold points covering close, medium and long encounter ranges.
 
 Version: 0.9
-Author: Josh Mate
+
 
