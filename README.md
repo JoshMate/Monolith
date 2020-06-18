@@ -34,10 +34,11 @@ As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you 
 5. Enjoy!
 
 ## Known Bugs
-1. Non yet, Joy!
+1. None yet!
 
-## Report Bugs
+## Contact Me
 Please report issues in the git hub repo if you discover any issues with the map and I will take a look!
+If you have any other questions direct message me on Reddit here: u/joshwar99
 
 ## Credits
 1. Big thanks to the Rust team for the amazing game!
