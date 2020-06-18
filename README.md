@@ -6,7 +6,7 @@ Author: Josh Mate
 Version: 0.9 
 
 ```diff
-! THIS MAP IS CURRENTLY IN ALPHA IT IS NOT FINISHED, BUT YOU ARE WELCOME TO HELP TEST
+! This map is currently in Alpha (Not 100% Finished)
 ```
 ## Description
 Monolith focuses on more real world Take and Hold scenarios. 
