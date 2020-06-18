@@ -5,16 +5,11 @@ Author: Josh Mate
 
 Version: 0.9 
 
-```diff
-! This map is currently in Alpha (Not 100% Finished)
-```
 ## Description
 Monolith focuses on more real world Take and Hold scenarios. 
 You will be defending from a single main direction rather than being flanked from all directions.
 Some Hold Arenas are much bigger than in vanilla, and feature buildings and structures to defend from.
 It covers all Engagement ranges so will test you at Pistol, Rifle and Sniper Range skills!
-
-
 
 ## The Holds
 
@@ -36,8 +31,8 @@ As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you 
 4. From the take and hold scene, select Monolith from the map selector
 5. Enjoy!
 
-## Known Bugs
-1. None yet!
+## Notes
+1. I Recommend you turn on SSAO and HDR as it vastly improves visibility with the cartoon style lighting.
 
 ## Contact Me
 Reddit Direct Message: u/joshwar99
