@@ -34,6 +34,12 @@ As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you 
 ## Notes
 I Recommend you turn on SSAO and HDR as it vastly improves visibility with the cartoon style lighting.
 
+This map is still work in progress!
+
+It is playable and fully functional
+
+It just needs some testing and polish
+
 ## Contact Me
 Reddit Direct Message: u/joshwar99
 
