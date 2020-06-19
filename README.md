@@ -33,7 +33,7 @@ As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you 
 5. Enjoy!
 
 ## Notes
-1. I Recommend you turn on SSAO and HDR as it vastly improves visibility with the cartoon style lighting.
+I Recommend you turn on SSAO and HDR as it vastly improves visibility with the cartoon style lighting.
 
 ## Contact Me
 Reddit Direct Message: u/joshwar99
