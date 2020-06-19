@@ -3,9 +3,9 @@ Josh Mate
 Monolith
 Josh Mate
 
-6 unique hold points covering close, medium and long encounter ranges.
+6 unique real world style hold points covering close, medium and long encounter ranges.
 
-Version: 0.9
+Version: 0.95
 
 
 
