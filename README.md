@@ -21,7 +21,7 @@ Monolith focuses on more real-world Take and Hold scenarios. You will be defendi
 6. (Short Range) Ventilation. Small vanilla-like arena. Sosigs come from a single direction.
 
 ## The Take and Hold Experience
-Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation, full pre match customisation, Dynamic cover, encryption nodes and more!
+Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation, full pre match customisation, dynamic cover, encryption nodes and more!
 As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you may find this map easier or harder depending on how you like to play.
 
 ## Installation
