@@ -4,7 +4,7 @@ A custom Map for H3VR's Take and Hold Gamemode
 
 Author: Josh Mate
 
-Version: 0.9 
+Version: 0.95
 
 ## Description
 Monolith focuses on more real world Take and Hold scenarios. 
