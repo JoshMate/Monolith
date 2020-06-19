@@ -25,14 +25,14 @@ Thanks to Anton's excellent code, all of the Features of T&H are reusable, so ex
 As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you may find this map easier or harder depending on how you like to play.
 
 ## Installation
-1. Fully install WurstMod [Here](https://github.com/Nolenz/WurstMod)
+1. Fully install WurstMod [Here](https://github.com/Nolenz/WurstMod) (That includeds BepInEx Too!)
 2. Download or clone this git repo
-3. Copy the "JM_Monolith" folder to your "H3VR\CustomLevels\TakeAndHold" Folder
+3. Copy the "JM_Monolith" folder to your "H3VR\CustomLevels\TakeAndHold" Folder (Not the "Monolith-master" folder!)
 4. From the take and hold scene, select Monolith from the map selector
-5. Enjoy!
+5. Read the Notes below on how to best enjoy this map!
 
 ## Notes
-I Recommend you turn on SSAO and HDR as it vastly improves visibility with the cartoon style lighting.
+I Recommend you turn on SSAO and HDR in your in-game settings as it vastly improves visibility with this art style!
 
 This map is still work in progress!
 
