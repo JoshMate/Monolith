@@ -10,16 +10,17 @@ Version: 0.95
 Monolith focuses on more real world Take and Hold scenarios. 
 You will be defending from a single main direction rather than being flanked from all directions.
 Some Hold Arenas are much bigger than in vanilla, and feature buildings and structures to defend from.
-It covers all Engagement ranges so will test you at Pistol, Rifle and Sniper Range skills!
+It covers all Engagement ranges so will test you at Close, Medium and Long Range skills!
+It also comes with 4 randomly generated Supply rooms just like Vanilla.
 
 ## The Holds
 
 1. (Long Range) Bridge. Only a single choke point and good for LMGs and Snipers.
 2. (Long Range) Hill. Good height advantage for the player, sosigs charge uphill.
-3. (Medium Range) House. Stealth Infiltration and good indoors CQB.
+3. (Medium Range) Compound. Stealth Infiltration and good indoors CQB.
 4. (Medium Range) Bunker. Only a single entrace and plenty of openings to shoot out of.
 5. (Short Range) The Monolith. Small vanilla like arena. Sosigs come from all directions.
-6. (Short Range) Ventilation. Small vanilla like arena, like vanilla. Sosigs come from a single direction.
+6. (Short Range) Ventilation. Small vanilla like arena. Sosigs come from a single direction.
 
 ## The Take and Hold Experience
 Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation and full pre match customisation!
@@ -38,7 +39,7 @@ I Recommend you turn on SSAO and HDR as it vastly improves visibility with the c
 ## Contact Me
 Reddit Direct Message: u/joshwar99
 
-For Bugs: Raise a GitHub Repo Issue 
+Or raise a GitHub repo issue 
 
 ## Credits
 1. Big thanks to the Rust team for the amazing game!
