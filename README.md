@@ -13,12 +13,12 @@ Monolith focuses on more real-world Take and Hold scenarios. You will be defendi
 
 ## The Holds
 
-1. (Long Range) Bridge. Only a single choke point and good for LMGs and Snipers.
+1. (Long Range) Bridge. Only a single chokepoint and good for LMGs and Snipers.
 2. (Long Range) Hill. Good height advantage for the player, sosigs charge uphill.
 3. (Medium Range) Compound. Stealth Infiltration and good indoors CQB.
-4. (Medium Range) Bunker. Only a single entrace and plenty of openings to shoot out of.
-5. (Short Range) The Monolith. Small vanilla like arena. Sosigs come from all directions.
-6. (Short Range) Ventilation. Small vanilla like arena. Sosigs come from a single direction.
+4. (Medium Range) Bunker. Only a single entrance and plenty of openings to shoot out of.
+5. (Short Range) The Monolith. Small vanilla-like arena. Sosigs come from all directions.
+6. (Short Range) Ventilation. Small vanilla-like arena. Sosigs come from a single direction.
 
 ## The Take and Hold Experience
 Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation and full pre match customisation!
