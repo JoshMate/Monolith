@@ -14,12 +14,12 @@ It covers all Engagement ranges so will test you at Pistol, Rifle and Sniper Ran
 
 ## The Holds
 
-1. Long Range - Capture and defend a long Bridge. Only a single choke point and good for LMGs and Snipers.
-2. Long Range - Capture and defend a vault on top of a hill. Good height advantage for the player and cover for sosigs.
-3. Medium Range - Capture and defend a fortified house. Stealth Infiltration and good indoors CQB.
-4. Medium Range - Capture and defend a WW2 style bunker. Only a single entrace and plenty of openings to shoot out of.
-5. Short Range - Capture and defend a bizzare statue. Very close range combat, like vanilla. Sosigs come from all directions.
-6. Short Range - Capture and defend a ventilation room. Very close range combat, like vanilla. Sosigs come from a single direction.
+1. (Long Range) Bridge. Only a single choke point and good for LMGs and Snipers.
+2. (Long Range) Hill. Good height advantage for the player, sosigs charge uphill.
+3. (Medium Range) House. Stealth Infiltration and good indoors CQB.
+4. (Medium Range) Bunker. Only a single entrace and plenty of openings to shoot out of.
+5. (Short Range) The Monolith. Small vanilla like arena. Sosigs come from all directions.
+6. (Short Range) Ventilation. Small vanilla like arena, like vanilla. Sosigs come from a single direction.
 
 ## The Take and Hold Experience
 Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation and full pre match customisation!
@@ -28,7 +28,7 @@ As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you 
 ## Installation
 1. Fully install WurstMod [Here](https://github.com/Nolenz/WurstMod)
 2. Download or clone this git repo
-3. Copy the "JM_Monolit" folder to your "H3VR\CustomLevels\TakeAndHold" Folder
+3. Copy the "JM_Monolith" folder to your "H3VR\CustomLevels\TakeAndHold" Folder
 4. From the take and hold scene, select Monolith from the map selector
 5. Enjoy!
 
