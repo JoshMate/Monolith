@@ -1,6 +1,5 @@
 ![MonolithLogo](/Monolith_WithText.png)
 
-# Monolith
 A custom Map for H3VR's Take and Hold Gamemode
 
 Author: Josh Mate
@@ -16,9 +15,9 @@ It covers all Engagement ranges so will test you at Pistol, Rifle and Sniper Ran
 ## The Holds
 
 1. Long Range - Capture and defend a long Bridge. Only a single choke point and good for LMGs and Snipers.
-2. Long Range - Capture and defend a bunker on top of a hill. Good height advantage for the player and cover for sosigs.
+2. Long Range - Capture and defend a vault on top of a hill. Good height advantage for the player and cover for sosigs.
 3. Medium Range - Capture and defend a fortified house. Stealth Infiltration and good indoors CQB.
-4. Medium Range - Capture and defend a Pill box. Only a single entrace and plenty of windows to shoot out of.
+4. Medium Range - Capture and defend a WW2 style bunker. Only a single entrace and plenty of openings to shoot out of.
 5. Short Range - Capture and defend a bizzare statue. Very close range combat, like vanilla. Sosigs come from all directions.
 6. Short Range - Capture and defend a ventilation room. Very close range combat, like vanilla. Sosigs come from a single direction.
 
