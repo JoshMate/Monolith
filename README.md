@@ -2,11 +2,11 @@
 
 A custom Map for H3VR's Take and Hold Gamemode
 
-[Screenshots](https://imgur.com/gallery/bzSb8EE)
+[Screenshots](https://imgur.com/a/nb7z7v0)
 
 Author: Josh Mate
 
-Version: 1.0.2
+Version: 1.1.0
 
 ## Description
 Monolith focuses on more real-world Take and Hold scenarios. You will be defending from a single main direction rather than being flanked from all directions. Some Hold Arenas are much bigger than in vanilla, and feature buildings and structures to defend from. It covers all Engagement ranges so you will test your Close, Medium, and Long Range skills! It also comes with randomly generated Supply rooms to get loot and restock between rounds just like classic.
