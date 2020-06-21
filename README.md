@@ -49,3 +49,18 @@ Or raise a GitHub repo issue
 1. Big thanks to the Rust team for the amazing game!
 2. Big thanks to Anton for his hard work on it and his devlogs!
 3. Thanks to Nolenz (u/Koba0100) For WurstMod!
+
+## FAQs
+
+Q - Why won't it install for me?
+A - Fully install Wurst mod and BepInEx, thats 2 dependencies! Make sure you install either x82 or x64 depending on your OS, the wrong one wont work! Also make sure it is "JM_Monolith" you dropped into the "H3VR\CustomLevels\TakeAndHold" Folder, not "Monolith-master"!
+
+Q - Is this map still going to be worked on?
+A - Yes, all the time, all updates will be pushed to this Git repo when they are ready.
+
+Q - Can we have HD cool looking textures?
+A - If you know a good texture artist, let me know!
+
+Q - Can we have cool Photo Realistic Lighting?
+A - I've tried it, looks terrible with this style of world textures.
+
