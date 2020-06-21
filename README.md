@@ -6,18 +6,21 @@ A custom Map for H3VR's Take and Hold Gamemode
 
 Author: Josh Mate
 
-Version: 1.3.0
+Version: 1.4.0
 
 ## Description
 Monolith focuses on more real-world Take and Hold scenarios. You will be defending from a single main direction rather than being flanked from all directions. Some Hold Arenas are much bigger than in vanilla, and feature buildings and structures to defend from. It covers all Engagement ranges so you will test your Close, Medium, and Long Range skills! It also comes with randomly generated Supply rooms to get loot and restock between rounds just like classic.
+
+## Intro Lore
+In the dystopian future of 2050, an evil mega-corporation named Monolith has completed its campaign to make all meat digital. Meat isles in supermarkets are bare and BBQs just aren't the same anymore. The only way to consume delicious meat is through the pricey Monolith brand Downloadable Meat Scheme. Since Monolith controls a complete monopoly on the world’s meat supply, prices skyrocketed making even a simple sausage is now only available to the most elite in society. The Free the Meat Movement or FMM for short, is a rebel organisation who wants the world's meat supply back for all to enjoy once again. You have been selected as the FMM's finest, to infiltrate Monolith's Meat Network to obtain the precious encryption data that is essential to FMM's master plan end Monolith's reign of terror. We’re patching you into the network now, expect heavy resistance. Good luck soldier!
 
 ## The Holds
 
 1. (Long Range) Bridge. Only a single chokepoint and good for LMGs and Snipers.
 2. (Long Range) Hill. Good height advantage for the player, sosigs charge uphill.
-3. (Medium Range) Compound. Stealth Infiltration and good indoors CQB.
+3. (Medium Range) Jail. Stealth Infiltration and good building to building CQB.
 4. (Medium Range) Bunker. Only a single entrance and plenty of openings to shoot out of.
-5. (Short Range) The Monolith. Small vanilla-like arena. Sosigs come from all directions.
+5. (Short Range) The Core. Small vanilla-like arena. Sosigs come from all directions.
 6. (Short Range) Ventilation. Small vanilla-like arena. Sosigs come from a single direction.
 
 ## The Take and Hold Experience
@@ -30,15 +33,16 @@ As the flow and difficulty of T&H was designed for the tiny vanilla arenas, you 
 3. Copy the "JM_Monolith" folder to your "H3VR\CustomLevels\TakeAndHold" Folder (Not the "Monolith-master" folder!)
 4. From the take and hold scene, select Monolith from the map selector
 5. Read the Notes below on how to best enjoy this map!
+6. Read the FAQs below if you are having issues!
 
 ## Notes
 I Recommend you turn on SSAO and HDR in your in-game settings as it vastly improves visibility with this art style!
 
-This map is still work in progress!
+The map is still being refined visually and for gameplay flow.
 
-It is playable and fully functional
+It is fully functional and playable from start to end.
 
-It just needs some testing and polish
+Some Encrpytion nodes are not reachable with meele (By Design) therefore a pure meele run is not possible to complete.
 
 ## Contact Me
 Reddit Direct Message: u/joshwar99
@@ -52,22 +56,21 @@ Or raise a GitHub repo issue
 
 ## FAQs
 
-Q - Why won't it install for me?
+Q - **Why won't it install for me?**
 
 A - Fully install Wurst mod and BepInEx, thats 2 dependencies! Make sure you install either x82 or x64 version of BepInEx depending on your OS, the wrong one wont work! Also make sure it is "JM_Monolith" you dropped into the "H3VR\CustomLevels\TakeAndHold" Folder, not "Monolith-master"!
 
 
-Q - Is this map still going to be worked on?
+Q - **Is this map still going to be worked on?**
 
 A - Yes, all the time, all updates will be pushed to this Git repo when they are ready.
 
 
-Q - Can we have HD cool looking textures?
+Q - **Can we have HD cool looking textures?**
 
-A - If you know a good texture artist, let me know!
+A - The minimalist style fits with the lore of the map.
 
 
-Q - Can we have cool Photo Realistic Lighting?
+Q - **Can we have cool Photo Realistic Lighting?**
 
-A - I've tried it, looks terrible with this style of world textures.
-
+A - It doesn't end up looking very good with the minimalist art style of the map, sorry.
