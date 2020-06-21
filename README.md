@@ -73,4 +73,4 @@ A - The minimalist style fits with the lore of the map.
 
 Q - **Can we have cool Photo Realistic Lighting?**
 
-A - It doesn't end up looking very good with the minimalist art style of the map, sorry.
+A - It doesn't end up looking very good with the minimalist art style of the map, sorry. (Turning on HDR and SSOA in the settings helps alot!)
