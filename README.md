@@ -18,7 +18,7 @@ Monolith focuses on more real-world Take and Hold scenarios. You will be defendi
 
 1. (Long Range) Bridge. Only a single chokepoint and good for LMGs and Snipers.
 2. (Long Range) Hill. Good height advantage for the player, sosigs charge uphill.
-3. (Medium Range) Jail. Good indoors CQB and building to building combat.
+3. (Medium Range) Jail. Building to building combat.
 4. (Medium Range) Bunker. Only a single entrance and plenty of openings to shoot out of.
 5. (Short Range) The Core. Small vanilla-like arena. Sosigs come from all directions.
 6. (Short Range) Ventilation. Small vanilla-like arena. Sosigs come from a single direction.
