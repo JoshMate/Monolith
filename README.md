@@ -6,7 +6,7 @@ A custom Map for H3VR's Take and Hold Gamemode
 
 Author: Josh Mate
 
-Version: 1.6.0
+Version: 1.6.1
 
 ## Intro
 In the dystopian future, an evil mega-corporation named Monolith has completed its campaign to make all meat digital. Meat aisles in supermarkets are bare and BBQs just aren't the same anymore. The only way to consume delicious meat is through the pricey Monolith brand Downloadable Meat Scheme. Since Monolith controls a complete monopoly on the world’s meat supply, prices skyrocketed making even a simple sausage is now only available to the most elite in society. The Free the Meat Movement or FMM for short, is a rebel organisation who wants the world's meat supply back for all to enjoy once again. You have been selected as the FMM's finest, to infiltrate Monolith's Meat Network to obtain the precious encryption data that is essential to FMM's master plan end Monolith's reign of terror. We’re patching you into the network now, expect heavy resistance. Good luck soldier!
@@ -21,9 +21,10 @@ Monolith focuses on more real-world Take and Hold scenarios. You will be defendi
 3. (Medium Range) Jail. Building to building combat. Sosigs get a height advantage.
 4. (Medium Range) Bunker. Only a single entrance and plenty of openings to shoot out of.
 5. (Medium Range) Furnace.  A medium size room with mixed ranges. Sosigs come from all directions.
-6. (Short Range) The Core. Small hallway with lots of cover. Sosigs come from all directions.
-7. (Short Range) Ventilation. Small room with cover. Sosigs come from a single direction.
-8. (Short Range) Catwalk. Small room with a ramp to catwalks. Sosigs come from a single direction.
+6. (Medium Range) Catwalk. Small room with a ramp to catwalks. Sosigs come from a single direction.
+7. (Short Range) The Core. Small hallway with lots of cover. Sosigs come from all directions.
+8. (Short Range) Ventilation. Small room with cover. Sosigs come from a single direction.
+ 
 
 
 ## The Take and Hold Experience
