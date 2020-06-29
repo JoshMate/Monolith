@@ -1,10 +1,8 @@
 Monolith
 Josh Mate
-6 unique real world style hold points. Featuring Buildings, structures and a single direction of attack by the Sosigs.
+A more varied T&H experience accross 9 all new hold points featuring close, medium and long range combat.
 
-Encounter Ranges: Close, Medium and Long
-
-Version: 1.6.1
+Version: 2.0.0
 
 
 

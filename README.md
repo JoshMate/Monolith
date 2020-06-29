@@ -6,26 +6,25 @@ A custom Map for H3VR's Take and Hold Gamemode
 
 Author: Josh Mate
 
-Version: 1.6.1
+Version: 2.0.0
 
 ## Intro
 In the dystopian future, an evil mega-corporation named Monolith has completed its campaign to make all meat digital. Meat aisles in supermarkets are bare and BBQs just aren't the same anymore. The only way to consume delicious meat is through the pricey Monolith brand Downloadable Meat Scheme. Since Monolith controls a complete monopoly on the world’s meat supply, prices skyrocketed making even a simple sausage is now only available to the most elite in society. The Free the Meat Movement or FMM for short, is a rebel organisation who wants the world's meat supply back for all to enjoy once again. You have been selected as the FMM's finest, to infiltrate Monolith's Meat Network to obtain the precious encryption data that is essential to FMM's master plan end Monolith's reign of terror. We’re patching you into the network now, expect heavy resistance. Good luck soldier!
 
 ## Description
-Monolith focuses on more real-world Take and Hold scenarios. You will be defending from a single main direction rather than being flanked from all directions. Some Hold Arenas are much bigger than in vanilla, and feature buildings and structures to defend from. It covers all Engagement ranges so you will test your Close, Medium, and Long Range skills! It also comes with randomly generated Supply rooms to get loot and restock between rounds just like classic.
+A more varied T&H experience accross 9 all new hold points featuring close, medium and long range combat. Monolith focuses on more structure based defence sceneraios, like a bridge, bunker or building.
 
 ## The Holds
 
-1. (Long Range) Bridge. Only a single chokepoint and good for LMGs and Snipers.
-2. (Long Range) Hill. Good height advantage for the player, sosigs charge uphill.
-3. (Medium Range) Jail. Building to building combat. Sosigs get a height advantage.
-4. (Medium Range) Bunker. Only a single entrance and plenty of openings to shoot out of.
-5. (Medium Range) Furnace.  A medium size room with mixed ranges. Sosigs come from all directions.
-6. (Medium Range) Catwalk. Small room with a ramp to catwalks. Sosigs come from a single direction.
-7. (Short Range) The Core. Small hallway with lots of cover. Sosigs come from all directions.
-8. (Short Range) Ventilation. Small room with cover. Sosigs come from a single direction.
- 
-
+1. Bridge - long range hold featuring a long bridge to defend from 1 side.
+2. Hill - long range hold featuring a good height advantage for the player.
+3. Platform - long range hold featuring 4 bridges from each direction.
+4. Bunker - Medium range hold featuring a well fortified bunker to defend.
+5. Jail  - Medium range hold featuring a tall building to defend.
+6. Core - Short range hold featuring lots of corners and angles.
+7. Catwalk - Short range hold featuring stairs and a catwalk.
+8. Monument - Short range hold featuring a large central structure.
+9. Ventilation - Close range hold featuring partial cover in a tight room.
 
 ## The Take and Hold Experience
 Thanks to Anton's excellent code, all of the Features of T&H are reusable, so expect the full experience along with patrolling sosigs, random generation, full pre match customisation, dynamic cover, encryption nodes and more!
