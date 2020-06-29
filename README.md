@@ -77,3 +77,16 @@ A - The minimalist style fits with the lore of the map.
 Q - **Can we have cool Photo Realistic Lighting?**
 
 A - It doesn't end up looking very good with the minimalist art style of the map, sorry. (Turning on HDR and SSAO in the settings helps alot!)
+
+## Version 2.0.0 - Patch Notes
++ Complete redesign of the map, the layout is now a lot more streamlined.
++ 4 new holds, see the screenshots for more!
++ Re-built or revamped EVERY hold.
++ Less is more, greatly reduced the amount of empty space and clutter.
++ Coloured coded the holds and doorways to aid with navigation.
++ Huge optimization efforts via aggressive culling with the new layout.
++ New enemy spawns for more varied take and holds.
++ New supply room layout possibilities.
++ Improved lighting and reflections.
++ Changed the colour of the cover crates to be less visually aggressive.
++ A ton of bugfixes
