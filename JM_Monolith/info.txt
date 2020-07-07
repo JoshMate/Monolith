@@ -2,7 +2,7 @@ Monolith
 Josh Mate
 A more varied T&H experience accross 9 all new hold points featuring close, medium and long range combat.
 
-Version: 2.0.3
+Version: 2.5.0
 
 
 
