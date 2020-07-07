@@ -12,13 +12,15 @@ Version: 2.5.0
 + Complete redesign of the map, the layout is now a lot more streamlined.
 + 4 new holds, see the screenshots for more!
 + Re-built or revamped EVERY hold.
++ Fps drops in the larger holds has been fixed. 
++ Optmisation across the board is now about 10x better.
++ Using a new mesh merging technique, performance should be vastly improved.
++ Huge optimization efforts via aggressive culling with the new layout.
++ Improved visibility, lighting and reflections.
 + Less is more, greatly reduced the amount of empty space and clutter.
 + Coloured coded the holds and doorways to aid with navigation.
-+ Using a new mesh merging technique, performance should be about 7x better.
-+ Huge optimization efforts via aggressive culling with the new layout.
 + New enemy spawns for more varied take and holds.
 + New supply room layout possibilities.
-+ Improved lighting and reflections.
 + Each room has its own lighting and reflections rather than a global preset.
 + Changed the colour of the cover crates to be less visually aggressive.
 + A ton of bugfixes
