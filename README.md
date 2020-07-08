@@ -6,7 +6,7 @@ A custom Map for H3VR's Take and Hold Gamemode
 
 Author: Josh Mate
 
-Version: 2.5.0
+Version: 2.6.1
 
 ## Version 2.5.0 - Patch Notes
 + Complete redesign of the map, the layout is now a lot more streamlined.
